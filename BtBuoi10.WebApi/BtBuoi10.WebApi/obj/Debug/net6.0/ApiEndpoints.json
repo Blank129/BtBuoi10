@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "BtBuoi10.WebApi.Controllers.OrderController",
+    "Method": "GetListOrder",
+    "RelativePath": "api/Order/GetListOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BtBuoi10.WebApi.Controllers.OrderController",
+    "Method": "OrderDelete",
+    "RelativePath": "api/Order/OrderDelete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BtBuoi10.WebApi.Controllers.OrderController",
+    "Method": "OrderInsertUpdate",
+    "RelativePath": "api/Order/OrderInsertUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "DataAccess.BtBuoi10.Entities.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BtBuoi10.WebApi.Controllers.OrderDetailController",
+    "Method": "GetListOrderDetail",
+    "RelativePath": "api/OrderDetail/GetListOrderDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BtBuoi10.WebApi.Controllers.OrderDetailController",
+    "Method": "OrderDetailDelete",
+    "RelativePath": "api/OrderDetail/OrderDetailDelete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BtBuoi10.WebApi.Controllers.OrderDetailController",
+    "Method": "OrderDetailInsertUpdate",
+    "RelativePath": "api/OrderDetail/OrderDetailInsertUpdate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderDetail",
+        "Type": "DataAccess.BtBuoi10.Entities.OrderDetail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

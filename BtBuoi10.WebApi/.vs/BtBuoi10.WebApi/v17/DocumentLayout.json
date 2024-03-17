@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4972D294-A9C5-463E-B4E2-311991FE68C3}|BtBuoi10.WebApi\\BtBuoi10.WebApi.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\btbuoi10.webapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4972D294-A9C5-463E-B4E2-311991FE68C3}|BtBuoi10.WebApi\\BtBuoi10.WebApi.csproj|solutionrelative:btbuoi10.webapi\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4972D294-A9C5-463E-B4E2-311991FE68C3}|BtBuoi10.WebApi\\BtBuoi10.WebApi.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\btbuoi10.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4972D294-A9C5-463E-B4E2-311991FE68C3}|BtBuoi10.WebApi\\BtBuoi10.WebApi.csproj|solutionrelative:btbuoi10.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\unitofwork\\ibtbuoi10unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\unitofwork\\ibtbuoi10unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\unitofwork\\btbuoi10unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\unitofwork\\btbuoi10unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\irepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\irepository\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\repository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4972D294-A9C5-463E-B4E2-311991FE68C3}|BtBuoi10.WebApi\\BtBuoi10.WebApi.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\btbuoi10.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4972D294-A9C5-463E-B4E2-311991FE68C3}|BtBuoi10.WebApi\\BtBuoi10.WebApi.csproj|solutionrelative:btbuoi10.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\entityframework\\btbuoi10dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\entityframework\\btbuoi10dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4972D294-A9C5-463E-B4E2-311991FE68C3}|BtBuoi10.WebApi\\BtBuoi10.WebApi.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\btbuoi10.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4972D294-A9C5-463E-B4E2-311991FE68C3}|BtBuoi10.WebApi\\BtBuoi10.WebApi.csproj|solutionrelative:btbuoi10.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\irepository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|c:\\users\\v\\documents\\khoac#\\btbuoi10.webapi\\dataaccess.btbuoi10\\entities\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F53C0B3-BEB0-404E-A335-958CB550E26A}|DataAccess.BtBuoi10\\DataAccess.BtBuoi10.csproj|solutionrelative:dataaccess.btbuoi10\\entities\\returndata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBtBuoi10UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\UnitOfWork\\IBtBuoi10UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\UnitOfWork\\IBtBuoi10UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\UnitOfWork\\IBtBuoi10UnitOfWork.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\UnitOfWork\\IBtBuoi10UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:25:18.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\IRepository\\IOrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\IRepository\\IOrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\IRepository\\IOrderDetailRepository.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\IRepository\\IOrderDetailRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:08:12.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BtBuoi10UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\UnitOfWork\\BtBuoi10UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\UnitOfWork\\BtBuoi10UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\UnitOfWork\\BtBuoi10UnitOfWork.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\UnitOfWork\\BtBuoi10UnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:26:33.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\BtBuoi10.WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BtBuoi10.WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\BtBuoi10.WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BtBuoi10.WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T05:03:55.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\BtBuoi10.WebApi\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "BtBuoi10.WebApi\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\BtBuoi10.WebApi\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "BtBuoi10.WebApi\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:13:00.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Repository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\Repository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Repository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\Repository\\OrderDetailRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:12:15.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\BtBuoi10.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "BtBuoi10.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\BtBuoi10.WebApi\\Program.cs",
+              "RelativeToolTip": "BtBuoi10.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:43:28.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAFUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:50:50.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BtBuoi10DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\EntityFramework\\BtBuoi10DbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\EntityFramework\\BtBuoi10DbContext.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\EntityFramework\\BtBuoi10DbContext.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\EntityFramework\\BtBuoi10DbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:40:39.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:08:51.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\IRepository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\IRepository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\IRepository\\IOrderRepository.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\IRepository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:47:04.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Entities\\Order.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:37:43.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\BtBuoi10.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BtBuoi10.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\BtBuoi10.WebApi\\appsettings.json",
+              "RelativeToolTip": "BtBuoi10.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T04:35:58.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReturnData.cs",
+              "DocumentMoniker": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Entities\\ReturnData.cs",
+              "RelativeDocumentMoniker": "DataAccess.BtBuoi10\\Entities\\ReturnData.cs",
+              "ToolTip": "C:\\Users\\V\\Documents\\KhoaC#\\BtBuoi10.WebApi\\DataAccess.BtBuoi10\\Entities\\ReturnData.cs",
+              "RelativeToolTip": "DataAccess.BtBuoi10\\Entities\\ReturnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T04:50:12.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

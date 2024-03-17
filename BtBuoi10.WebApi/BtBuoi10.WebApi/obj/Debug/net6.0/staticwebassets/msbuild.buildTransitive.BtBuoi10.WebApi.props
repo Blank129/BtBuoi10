@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BtBuoi10.WebApi.props" />
+</Project>
